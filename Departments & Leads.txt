@@ -1,23 +1,64 @@
-Departments & Leads
+Departments, Sub Departments, Leads & Descriptions
+
+
 
 Animal Resources: @Nimalen
+- Front Desk
+
 Arcade: @Tokes_Trashcat
+
 Art Show: @NeraSuncloud
+
 Board: @Glexes
+
 Charity: @FrekeLeilon
+
 Con Ops: @Asalihoneybadger
+
 Dealers Den: @lyomoonheart
+
 Decorations: @misskamira
+
 Design: @groovykath
+- Coonbook
+- Merchandise-Design
+- Web Design
+- Lore
+- Animation
+
 Events: @Egylon @Zaliphyr
+- Ceremonies
+
 Fursuit Lounge: @Blackidogfox 
+
 Guest of Honour: @SarahLynx
-IT: @KoboltWuff
+
+IT: @KoboltWuffD
+- Google Workspace Admin
+- Web Design
+
 Logistics: @macklabben
-Medic: @ChloeTheCox
+
+Medic: @ChloeTheCox (P)
+
 Merch: @lyomoonheart
+
 Registration: @NorwegianEcho
-Security: @Lone_wolf_awoo
+
+Security: @Lone_wolf_awoo (P)
+
 Social Media: @amatsuba
+- Content Writer
+- Multimedia
+
 Stage Tech: @hydrar
+
 Venue: @Glexes
+
+
+
+
+
+(P) = Priority
+(L) = Looking
+(N) = Not Looking 
