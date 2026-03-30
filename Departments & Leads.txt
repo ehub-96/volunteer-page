@@ -13,9 +13,9 @@ Board: @Glexes
 
 Charity: @FrekeLeilon
 
-Con Ops: @Asalihoneybadger
+Con Ops: @Asalihoneybadger (L)
 
-Dealers Den: @lyomoonheart
+Dealers Den: @lyomoonheart (L)
 
 Decorations: @misskamira
 
@@ -26,7 +26,7 @@ Design: @groovykath
 - Lore
 - Animation
 
-Events: @Egylon @Zaliphyr
+Events: @Egylon @Zaliphyr (L)
 - Ceremonies
 
 Fursuit Lounge: @Blackidogfox 
