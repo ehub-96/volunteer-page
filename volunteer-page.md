@@ -15,6 +15,10 @@ Making sure everyone has a “good time”, and making sure people behave.
 
 
 
+
+
+
+
 # Looking
 
 ## Con-ops {#conops}
@@ -28,6 +32,10 @@ General convention customer service and registration
 [Freke](https://t.me/FrekeLeilon)
 
 The team that helps organize and support all the events!
+
+
+
+
 
 # Not looking
 
