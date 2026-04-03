@@ -13,7 +13,11 @@ Medics will do what they can to ensure your well-being
 
 Making sure everyone has a “good time”, and making sure people behave.
 
+## Registration {#registration}
 
+Help set up and process registrations on site so the queues can run smoothly and everyone gets the best start to the convention as possible.
+
+[Echo](https://t.me/NorwegianEcho)
 
 
 
