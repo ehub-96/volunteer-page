@@ -28,14 +28,14 @@ Design: @groovykath
 - Lore
 - Animation
 
-Events: @Egylon @Zaliphyr (L)
+Events: @Egylon @Zaliphyr @FrekeLeilon  (L)
 - Ceremonies
 
 Fursuit Lounge: @Blackidogfox 
 
 Guest of Honour: @SarahLynx
 
-IT: @KoboltWuffD
+IT: @KoboltWuffD (L)
 - Google Workspace Admin
 - Web Design
 
@@ -45,7 +45,7 @@ Medic: @ChloeTheCox (P)
 
 Merch: @lyomoonheart
 
-Registration: @NorwegianEcho
+Registration: @NorwegianEcho (P)
 
 Security: @Lone_wolf_awoo (P)
 

@@ -37,6 +37,11 @@ General convention customer service and registration
 
 The team that helps organize and support all the events!
 
+## IT {#it}
+
+[KoboltWuff](https://t.me/KoboltWuff)
+
+Bits, bytes and everything nice!
 
 
 
