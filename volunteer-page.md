@@ -4,7 +4,7 @@
 
 [Chloe](https://t.me/ChloeTheCox)
 
-Medics will do what they can to ensure your well-being
+Medics will do what they can to ensure your well-being.
 
 
 ## Security {#security}
@@ -13,12 +13,12 @@ Medics will do what they can to ensure your well-being
 
 Making sure everyone has a “good time”, and making sure people behave.
 
-## Registration {#registration}
 
-Help set up and process registrations on site so the queues can run smoothly and everyone gets the best start to the convention as possible.
+## Registration {#registration}
 
 [Echo](https://t.me/NorwegianEcho)
 
+Help set up and process registrations on site so the queues can run smoothly and everyone gets the best start to the convention as possible.
 
 
 
@@ -31,11 +31,13 @@ Help set up and process registrations on site so the queues can run smoothly and
 
 General convention customer service and registration
 
+
 ## Event {#event}
 
 [Freke](https://t.me/FrekeLeilon)
 
 The team that helps organize and support all the events!
+
 
 ## IT {#it}
 
@@ -48,17 +50,61 @@ Bits, bytes and everything nice!
 
 # Not looking
 
+## Animal Resources {#animalresources}
+
+[Nimalen](https://t.me/Nimalen)
+
+/// DESCRIPTION MISSING
+
+
+## Arcade {#arcade}
+
+[XXX](xxx)
+
+/// DESCRIPTION MISSING
+
+
+## Art Show {#artshow}
+
+[XXX](xxx)
+
+/// DESCRIPTION 
+
+
+## Board {#board}
+
+[XXX](xxx)
+
+/// DESCRIPTION MISSING
+
+
 ## Ceremonies {#ceremonies}
 
 [Nimalen](https://t.me/Nimalen)
 
 Wanna be on stage, help us tell a story and give the convention an entertaining start and finish? Don't hesitate and come on deck!
 
-## Content writer {#contentWriter}
+
+## Charity {#charity}
+
+[XXX](xxx)
+
+/// DESCRIPTION MISSING
+
+
+## Content writers {#contentwriter}
 
 [Astia](https://t.me/skvirel)
 
 Person responsible for written content
+
+
+## Decorations {#decorations}
+
+[XXX](xxx)
+
+/// DESCRIPTION MISSING
+
 
 ## Dealer's den & Artist alley {#dealersDen}
 
@@ -76,15 +122,30 @@ We focus on all things visual, from graphic design, animation, and merch to smal
 
 ## Fursuit Lounge {#fsl}
 
-[Zr4g0n](https://t.me/Zr4g0n) and [Blacki Dogfox](https://t.me/Blackidogfox)
+[Blacki Dogfox](https://t.me/Blackidogfox)
 
 Keep the fursuits dry and the fursuiter alive.
 
-## IT {#it}
 
-[Félix Rêverie](https://t.me/felixreverie)
+## Logistics {#logistics}
 
-Bits, bytes and everything nice!
+[XXX](xxx)
+
+/// DESCRIPTION MISSING
+
+
+## Merch {#merch}
+
+[XXX](xxx)
+
+/// DESCRIPTION MISSING
+
+
+## Social Media {#socialmedia}
+
+[XXX](xxx)
+
+/// DESCRIPTION MISSING
 
 
 ## Stage {#stage}
@@ -92,3 +153,10 @@ Bits, bytes and everything nice!
 [Hydrar](https://t.me/Hydrar)
 
 The lights must blink and the bass must be loud!
+
+
+## Venue {#venue}
+
+[XXX](xxx)
+
+/// DESCRIPTION MISSING
